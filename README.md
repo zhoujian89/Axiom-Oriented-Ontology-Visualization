@@ -1,8 +1,6 @@
 Axiom-Oriented-Ontology-Visualization
 =====================================
          AxiomVis: An Axiom-Oriented Ontology Visualization Tool
-         =======================================================
-         
          
     Abstract. With the continuous growth of ontologies in size, the amount
 of ontology axioms is steadily increasing. To help users understand ontologies
